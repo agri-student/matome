@@ -1,0 +1,30 @@
+[
+  {
+    "title": "文化祭2025 写真ギャラリー",
+    "url": "https://example.github.io/culture-festival-2025/",
+    "category": "行事写真",
+    "description": "文化祭当日の様子をまとめた写真ギャラリーです。クラス企画や部活動の発表風景を掲載しています。",
+    "thumbnail": ""
+  },
+  {
+    "title": "体育祭2025 フォトアルバム",
+    "url": "https://example.github.io/sports-day-2025/",
+    "category": "行事写真",
+    "description": "体育祭の競技風景や応援合戦の写真を学年別に紹介しています。",
+    "thumbnail": ""
+  },
+  {
+    "title": "情報Ⅰ 授業教材ページ",
+    "url": "https://example.github.io/info1-materials/",
+    "category": "授業・教材",
+    "description": "情報Ⅰの授業スライドや演習課題、参考資料をまとめたページです。",
+    "thumbnail": ""
+  },
+  {
+    "title": "農業科 学科紹介",
+    "url": "https://example.github.io/agri-course-intro/",
+    "category": "学科・部活紹介",
+    "description": "農業科のカリキュラムや実習内容、卒業後の進路について紹介しています。",
+    "thumbnail": ""
+  }
+]
